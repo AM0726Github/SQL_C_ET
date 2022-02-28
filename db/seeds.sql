@@ -31,28 +31,28 @@ VALUES
 
 INSERT INTO employee( first_name, last_name, role_id, manager_id )
 VALUES
-  ('George','Spark',1,10),
-  ('Aaron','Miller',2,1),
-  ('Nikole','Katimova',3,1),
+  ('George','Spark',1,NULL),
+  ('Aaron','Miller',2,NULL),
+  ('Nikole','Katimova',3,NULL),
 
-  ('Ashly','Mancia',4,10),
-  ('Oliveer','Kahn',5,4),
+  ('Ashly','Mancia',4,NULL),
+  ('Oliveer','Kahn',5,NULL),
 
-  ('Marko','Baske',6,10),
-  ('Raul','Markes',7, 6),
-  ('Artur','Poll',8,6),
-  ('Avet','Pambukchyan',9,6),
+  ('Marko','Baske',6,NULL),
+  ('Raul','Markes',7, NULL),
+  ('Artur','Poll',8,NULL),
+  ('Avet','Pambukchyan',9,NULL),
 
   ('Hillary','Frost',10,NULL),
 
-  ('Jake','Collince',11,10),
-  ('Tonny','Jakeson',12,11),
+  ('Jake','Collince',11,NULL),
+  ('Tonny','Jakeson',12,NULL),
   
-  ('Ninella','Hopp',13,10),
-  ('Connor','Been',14,10),
+  ('Ninella','Hopp',13,NULL),
+  ('Connor','Been',14,NULL),
 
-  ('Derec','Beckhem',15,10),
-  ('Nursultan','Hakimi',16,15),
+  ('Derec','Beckhem',15,NULL),
+  ('Nursultan','Hakimi',16,NULL),
 
-  ('Vivian','Araqelyan',17,10);
+  ('Vivian','Araqelyan',17,NULL);
   
