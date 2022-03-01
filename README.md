@@ -8,21 +8,15 @@ This application is comand line aplication with interactive functionality. By ru
 
 Video: [Download Local File](https://github.com/AM0726Github/SQL_C_ET/blob/f31f2076f7612e6d06c0453b27b23a3314fe2e89/Assets/videos/Untitled.webm) | [Google Drive](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
 
-## Installation
-To install this project, please follow these steps: 
-1. Make sure you have [Node.js](https://nodejs.org) and [MySQL](https://dev.mysql.com/downloads/) installed.
-2. Through the command line, go to the folder you wish this application's folder to be in.
-3. Do `git clone` of the repository to get the application's files.
-4. Enter `mysql -u root -p` to open MySQL.
-5. Run `source db/db.sql` to get the database, then run `source db/schema.sql` to get the tables, then run `source db/seeds.sql` to get the seeds
+## Installation and Usage
 
-In order to install all of them, enter the following into the command line:
+* Clone the repo to local machine 
+* Run the database, tables and seeds
+
+Install all node modules and running application:
 ```
 npm install
 ```
-
-## Usage
-To run this project, enter the following into the command line:
 ```
 npm start
 ```
