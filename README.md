@@ -4,9 +4,11 @@ This application is comand line aplication with interactive functionality. By ru
 
 ## Video
 
-[![Click link to view video](./Assets/videos/Screenshot.png)](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
+Video: [Download Local File](https://github.com/AM0726Github/SQL_C_ET/blob/f31f2076f7612e6d06c0453b27b23a3314fe2e89/Assets/videos/Untitled.webm) | [Google Drive](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view?usp=sharing)
 
-Video: [Download Local File](https://github.com/AM0726Github/SQL_C_ET/blob/f31f2076f7612e6d06c0453b27b23a3314fe2e89/Assets/videos/Untitled.webm) | [Google Drive](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
+[![Click link to view video](./Assets/videos/Screenshot.png)](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view?usp=sharing)
+
+
 
 ## Installation and Usage
 
