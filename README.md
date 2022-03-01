@@ -4,9 +4,9 @@ This application is comand line aplication with interactive functionality. By ru
 
 ## Video
 
-[![Click link to view video](./Assets/videos/Screenshot 2022-02-28 210503.png)](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
+[![Click link to view video](./Assets/videos/Screenshot.png)](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
 
-Video: [Download Local File](https://github.com/AM0726Github/SQL_C_ET/Assets/videos/Untitled_ Feb 28, 2022 8_57 PM (1).webm) | [Google Drive](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
+Video: [Download Local File](https://github.com/AM0726Github/SQL_C_ET/Assets/videos/Untitled.webm) | [Google Drive](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view)
 
 ## Installation
 To install this project, please follow these steps: 
